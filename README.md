@@ -10,6 +10,7 @@ Extract all files into your game folder (where `granblue_fantasy_relink.exe` is)
 ```
 steamapps\common\Granblue Fantasy Relink
 ```
+DO NOT PUT A RESOLUTION IN THE .INI FILE - JUST LEAVE IT AT 0
 
 Launch the game - done.
 
