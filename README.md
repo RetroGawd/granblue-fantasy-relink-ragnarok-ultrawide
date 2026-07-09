@@ -14,6 +14,10 @@ YOU DON'T HAVE TO CHANGE THE RESOLUTION IN THE .INI FILE - YOU CAN LEAVE IT AT 0
 
 Launch the game - done.
 
+**If you are having some trouble...**
+1. In game settings set resolution to 3840x2160.
+2. Restart the game
+
 ## Notes
 
 - ⚠️ Not thoroughly tested yet — please report anything odd.
