@@ -9,7 +9,7 @@ Extract all files into your game folder (where `granblue_fantasy_relink.exe` is)
 steamapps\common\Granblue Fantasy Relink
 ```
 
-Launch the game — done.
+Launch the game - done.
 
 ## Notes
 
