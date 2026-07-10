@@ -1,6 +1,9 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/retrogodx)
 
 # Granblue Fantasy: Relink Endless Ragnarok - Ultrawide Fix
+Hey there, so I am not a developer and thought I would take on this challenge myself. After it started to comee together I decided that others might benefit from my work. I will do my best to update or add features, but please understand it can take time. The best way to report bugs is on the Wide Screen Gaming Forum. I posted a link to the discord below. A big shoutout to everyone there who has been providing feedback, updates and appreciation for the effort!
+
+https://discord.com/servers/wsgf-142072549537349632
 
 Adds ultrawide / super-ultrawide support (21:9, 32:9, any width) to Granblue Fantasy: Relink 2.0.
 Native wide rendering, correct UI size, spanned HUD, and world markers that line up.
