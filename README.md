@@ -28,6 +28,8 @@ Launch the game - done.
 2. Verify integrity on Steam
 3. Install mod again
 
+### CUSTOM RESOLUTIONS WILL LIKELY NOT WORK AT THIS TIME
+
 ### Core fixes — make ultrawide work (leave these on)
 
 | Setting | Default | Description |
