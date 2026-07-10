@@ -25,7 +25,7 @@ Launch the game - done.
 
 ### IF you notice graphical glitches around your Quest Log...
 1. Remove all mods.
-2. Run a file repair on Steam
+2. Verify integrity on Steam
 3. Install mod again
 
 ### Core fixes — make ultrawide work (leave these on)
