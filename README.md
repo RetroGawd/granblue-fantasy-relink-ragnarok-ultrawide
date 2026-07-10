@@ -14,9 +14,14 @@ YOU DON'T HAVE TO CHANGE THE RESOLUTION IN THE .INI FILE - YOU CAN LEAVE IT AT 0
 
 Launch the game - done.
 
-**If you are having some trouble...**
+**IF you are having some trouble...**
 1. In game settings set resolution to 3840x2160.
 2. Restart the game
+
+**IF you notice graphical glitches around your Quest Log...**
+1. Remove all mods.
+2. Run a file repair on Steam
+3. Install mod again
 
 ### Core fixes — make ultrawide work (leave these on)
 
