@@ -5,6 +5,8 @@ Hey there, so I am not a developer and thought I would take on this challenge my
 
 https://discord.com/servers/wsgf-142072549537349632
 
+### What does it do?
+
 Adds ultrawide / super-ultrawide support (21:9, 32:9, any width) to Granblue Fantasy: Relink 2.0.
 Native wide rendering, correct UI size, spanned HUD, and world markers that line up.
 
